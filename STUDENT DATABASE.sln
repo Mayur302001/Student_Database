@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "STUDENT DATABASE", "STUDENT DATABASE.csproj", "{6877338C-4BFF-4AB8-9AB2-5F396AF0E0AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM64 = Debug|ARM64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM64 = Release|ARM64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6877338C-4BFF-4AB8-9AB2-5F396AF0E0AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6877338C-4BFF-4AB8-9AB2-5F396AF0E0AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6877338C-4BFF-4AB8-9AB2-5F396AF0E0AB}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{6877338C-4BFF-4AB8-9AB2-5F396AF0E0AB}.Debug|ARM64.Build.0 = Debug|ARM64
+		{6877338C-4BFF-4AB8-9AB2-5F396AF0E0AB}.Debug|x86.ActiveCfg = Debug|x86
+		{6877338C-4BFF-4AB8-9AB2-5F396AF0E0AB}.Debug|x86.Build.0 = Debug|x86
+		{6877338C-4BFF-4AB8-9AB2-5F396AF0E0AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6877338C-4BFF-4AB8-9AB2-5F396AF0E0AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6877338C-4BFF-4AB8-9AB2-5F396AF0E0AB}.Release|ARM64.ActiveCfg = Release|ARM64
+		{6877338C-4BFF-4AB8-9AB2-5F396AF0E0AB}.Release|ARM64.Build.0 = Release|ARM64
+		{6877338C-4BFF-4AB8-9AB2-5F396AF0E0AB}.Release|x86.ActiveCfg = Release|x86
+		{6877338C-4BFF-4AB8-9AB2-5F396AF0E0AB}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {607C35D6-5F97-4082-AFD6-C6DD7115A650}
+	EndGlobalSection
+EndGlobal
